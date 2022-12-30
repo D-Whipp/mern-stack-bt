@@ -168,8 +168,9 @@ img {
 .bg-light,
 .badge-light,
 .alert-light {
-  background: var(--light-color);
+  background: #fff;
   color: #333;
+  border: #333 1px solid;
 }
 
 .btn-dark,
