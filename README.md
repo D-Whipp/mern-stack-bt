@@ -2,6 +2,8 @@
 
 ## Full Stack Web Application
 
+![app-image](./client/src/img/app-screenshot.png)
+
 ## Purpose
 
 I am going through this Full Stack Web Application course on Udemy to further my understanding of Full Stack Web Development.
