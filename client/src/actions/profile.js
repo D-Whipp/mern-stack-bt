@@ -8,7 +8,7 @@ import {
   UPDATE_PROFILE,
   CLEAR_PROFILE,
   ACCOUNT_DELETED,
-  GET_REPOS
+  GET_REPOS,
 } from './types';
 
 // Get current users profile
@@ -92,7 +92,6 @@ export const getGithubRepos = (username) => async (dispatch) => {
     });
   }
 };
-
 
 // Create or update profile
 export const createProfile =
@@ -277,8 +276,6 @@ export const deleteAccount = () => async (dispatch) => {
     )
   ) {
     try {
-      const res = await axios.delete('/api/profile');
-
       dispatch({
         type: CLEAR_PROFILE,
       });

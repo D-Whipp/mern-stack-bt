@@ -56,7 +56,8 @@ const EditProfile = ({
       instagram:
         loading || !profile.social ? '' : profile.social.instagram,
     });
-  }, [loading]);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [getCurrentProfile, loading]);
 
   const {
     company,
