@@ -14,9 +14,11 @@ This application was created by [Brad Traversy](https://www.udemy.com/user/brad-
 
 - JavaScript
 - React
+- Moment
+- Express
 - MongoDB
 - Mongoose
-- Express
+- Nodemon
 - BCryptjs
 - Gravatar
 
@@ -29,9 +31,15 @@ My portfolio is currently under construction. I'll link it here once I have it u
 
 ## Badges
 
+![javascript](https://img.shields.io/badge/language-javascript-blue?style=plastic&logo=github)
+![react](https://img.shields.io/badge/react-18.2.0-blue?style=plastic&logo=github)
+![moment](https://img.shields.io/badge/moment-2.24.0-blue?style=plastic&logo=github)
+![redux](https://img.shields.io/badge/redux-4.2.0-blue?style=plastic&logo=github)
+![uuid](https://img.shields.io/badge/uuid-9.0.0-blue?style=plastic&logo=github)
 ![express](https://img.shields.io/badge/express-4.18.2-blue?style=plastic&logo=express)
 ![bcryptjs](https://img.shields.io/badge/bcryptjs-2.4.3-blue?style=plastic&logo=github)
-![gravatar](https://img.shields.io/badge/gravatar-1.8.2-blue?style=plastic&logo=gravatar)
-![mongoose](https://img.shields.io/badge/mongoose-6.7.2-blue?style=plastic&logo=mongodb)
+![nodemon](https://img.shields.io/badge/nodemon-2.0.20-blue?style=plastic&logo=mongodb)
 ![mongodb](https://img.shields.io/badge/mongo-DB-blue?style=plastic&logo=mongodb)
+![mongoose](https://img.shields.io/badge/mongoose-6.7.2-blue?style=plastic&logo=mongodb)
+![gravatar](https://img.shields.io/badge/gravatar-1.8.2-blue?style=plastic&logo=gravatar)
 ![license](https://img.shields.io/badge/license-MIT-blue?style=plastic&logo=github)
