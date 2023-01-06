@@ -2,11 +2,13 @@
 
 ## Full Stack Web Application
 
+## LEARNING | [Udemy Course](https://www.udemy.com/course/mern-stack-front-to-back/)
+
 ![app-image](./client/src/img/app-screenshot.png)
 
 ## Purpose
 
-I am going through this Full Stack Web Application course on Udemy to further my understanding of Full Stack Web Development.
+This application was created by [Brad Traversy](https://www.udemy.com/user/brad-traversy/). I completed this course to further my understanding of a MERN Full Stack Web Application.
 
 ## Technologies Used
 
@@ -23,7 +25,7 @@ I am going through this Full Stack Web Application course on Udemy to further my
 Hello, my name is David. \
 You can email me at dwhipp88@gmail.com. \
 You can view my [github](https://github.com/D-Whipp). \
-Check out my [portfolio](http://mighty-brook-32674.herokuapp.com/).
+My portfolio is currently under construction. I'll link it here once I have it up and running again.
 
 ## Badges
 
